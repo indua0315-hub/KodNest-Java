@@ -6,6 +6,7 @@ public class WelcomeToJava {
         System.out.println("Welcome to the  Java track");
         System.out.println("We are excited to have you with us");
         System.out.println("Now i am learning how to express that logic using java ");
+        System.out.println("This is java");
 
     }
 }
